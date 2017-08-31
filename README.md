@@ -11,12 +11,14 @@ Member Of Lab
 
 **β世界線で　仲間と一緒にすごします**
 
-![CurrentBadge](https://github.com/Future-Gadget-Laboratory/Labmem/blob/master/%E5%BE%BD%E7%AB%A0%CE%B2-2-min.png )
+![βBadge](https://github.com/Future-Gadget-Laboratory/Labmem/blob/master/%E5%BE%BD%E7%AB%A0%CE%B2-2-min.png )
 
 **α世界線　この世界に紅莉栖がいない**
 
-![CurrentBadge](https://github.com/Future-Gadget-Laboratory/Labmem/blob/master/%E5%BE%BD%E7%AB%A0%CE%B1-2-min.png )
+![αBadge](https://github.com/Future-Gadget-Laboratory/Labmem/blob/master/%E5%BE%BD%E7%AB%A0%CE%B1-2-min.png )
 ## Member Of Laboratory
+
+メンバーの状態
 
 **LABMEM NO001,冈部伦太郎(Okabe Rintarō)**  今の状態：[今このラボラトリーに仕事中](https://github.com/smallclover)
 
@@ -40,4 +42,21 @@ Member Of Lab
 
 **LABMEM NO011,阿万音由季**  今の状態：[留守中](#)
 
+##　個人情報
+**LABMEM NO001,冈部伦太郎(Okabe Rintarō)** 
+現在Javaに一生懸命勉強しています。牧瀬紅莉栖のために。
+
+![Okabe Rintarō](https://github.com/Future-Gadget-Laboratory/Labmem/blob/master/LabMemerPic/%E5%86%88%E9%83%A8%E4%BC%A6%E5%A4%AA%E9%83%8E.png)
+
+**LABMEM NO009,比屋定真帆(Hiyajō Maho)**
+JavaScriptを研究しています、でもこれだけじゃなくて他のLanguageも段々上手になります。現在岡部と一緒に仕事中です。
+
+![Hiyajō Maho](https://github.com/Future-Gadget-Laboratory/Labmem/blob/master/LabMemerPic/%E6%AF%94%E5%B1%8B%E5%AE%9A%E7%9C%9F%E5%B8%86.png)
+
+**LABMEM NO004,牧濑红莉栖**
+今　岡部にいない　どこへ行きますでしょうか？
+
+![Hiyajō Maho](https://github.com/Future-Gadget-Laboratory/Labmem/blob/master/LabMemerPic/%E7%89%A7%E7%80%AC%E7%B4%85%E8%8E%89%E6%A0%96.jpg)
+
+## 皆の写真
 ![LabMemberPicture](https://github.com/Future-Gadget-Laboratory/Labmem/blob/master/%E6%9C%AA%E6%9D%A5%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E7%A0%94%E7%A9%B6%E6%89%80.jpg)
