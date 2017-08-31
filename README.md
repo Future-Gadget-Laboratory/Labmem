@@ -63,4 +63,4 @@ JavaScriptを研究しています、でもこれだけじゃなくて他のLang
 ![Hiyajō Maho](https://github.com/Future-Gadget-Laboratory/Labmem/blob/master/LabMemerPic/%E7%89%A7%E7%80%AC%E7%B4%85%E8%8E%89%E6%A0%96.jpg)
 
 ## 皆の写真
-![LabMemberPicture](https://github.com/Future-Gadget-Laboratory/Labmem/blob/master/%E6%9C%AA%E6%9D%A5%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E7%A0%94%E7%A9%B6%E6%89%80.jpg)
+![LabMemberPicture](https://github.com/Future-Gadget-Laboratory/Labmem/blob/master/%E5%A4%A7%E5%AE%B6.jpg)
