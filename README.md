@@ -18,26 +18,26 @@ Member Of Lab
 ![CurrentBadge](https://github.com/Future-Gadget-Laboratory/Labmem/blob/master/%E5%BE%BD%E7%AB%A0%CE%B1-2-min.png )
 ## Member Of Laboratory
 
-**LABMEM NO001,冈部伦太郎**
+**LABMEM NO001,冈部伦太郎**[今このラボラトリーに仕事中](https://github.com/smallclover)
 
-**LABMEM NO002,椎名真由理**
+**LABMEM NO002,椎名真由理**[留守中]()
 
-**LABMEM NO003,桥田至**
+**LABMEM NO003,桥田至**[留守中]()
 
-**LABMEM NO004,牧濑红莉栖**
+**LABMEM NO004,牧濑红莉栖**[留守中]()
 
-**LABMEM NO005,桐生萌郁**
+**LABMEM NO005,桐生萌郁**[留守中]()
 
-**LABMEM NO006,漆原琉华**
+**LABMEM NO006,漆原琉华**[留守中]()
 
-**LABMEM NO007,秋叶留未穗**
+**LABMEM NO007,秋叶留未穗**[留守中]()
 
-**LABMEM NO008,阿万音铃羽**
+**LABMEM NO008,阿万音铃羽**[留守中]()
 
-**LABMEM NO009,比屋定真帆**
+**LABMEM NO009,比屋定真帆**[今このラボラトリーに仕事中](https://github.com/netsails)
 
-**LABMEM NO010,椎名篝**
+**LABMEM NO010,椎名篝**[留守中]()
 
-**LABMEM NO011,阿万音由季**
+**LABMEM NO011,阿万音由季**[留守中]()
 
 ![LabMemberPicture](https://github.com/Future-Gadget-Laboratory/Labmem/blob/master/%E6%9C%AA%E6%9D%A5%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E7%A0%94%E7%A9%B6%E6%89%80.jpg)
