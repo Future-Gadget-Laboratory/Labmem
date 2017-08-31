@@ -18,7 +18,7 @@ Member Of Lab
 ![CurrentBadge](https://github.com/Future-Gadget-Laboratory/Labmem/blob/master/%E5%BE%BD%E7%AB%A0%CE%B1-2-min.png )
 ## Member Of Laboratory
 
-**LABMEM NO001,冈部伦太郎**  今の状態：[今このラボラトリーに仕事中](https://github.com/smallclover)
+**LABMEM NO001,冈部伦太郎(Okabe Rintarō)**  今の状態：[今このラボラトリーに仕事中](https://github.com/smallclover)
 
 **LABMEM NO002,椎名真由理**  今の状態：[留守中](#)
 
@@ -34,7 +34,7 @@ Member Of Lab
 
 **LABMEM NO008,阿万音铃羽**  今の状態：[留守中](#)
 
-**LABMEM NO009,比屋定真帆**  今の状態：[今このラボラトリーに仕事中](https://github.com/netsails)
+**LABMEM NO009,比屋定真帆(Hiyajō Maho)**  今の状態：[今このラボラトリーに仕事中](https://github.com/netsails)
 
 **LABMEM NO010,椎名篝**  今の状態：[留守中](#)
 
