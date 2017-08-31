@@ -9,11 +9,11 @@ Member Of Lab
 
 ![CurrentBadge](https://github.com/Future-Gadget-Laboratory/Labmem/blob/master/%E6%9C%AA%E6%9D%A5%E9%81%93%E5%85%B7%E7%A0%94%E7%A9%B6%E6%89%80-%E5%BE%BD%E7%AB%A0-2-min.jpg )
 
-**β世界線で　仲間と一緒にすごします**
+**β世界線で　仲間と一緒にすごします でも紅莉栖がいない**
 
 ![βBadge](https://github.com/Future-Gadget-Laboratory/Labmem/blob/master/%E5%BE%BD%E7%AB%A0%CE%B2-2-min.png )
 
-**α世界線　この世界に紅莉栖がいない**
+**α世界線　この世界に真由理がいない**
 
 ![αBadge](https://github.com/Future-Gadget-Laboratory/Labmem/blob/master/%E5%BE%BD%E7%AB%A0%CE%B1-2-min.png )
 ## Member Of Laboratory
