@@ -44,16 +44,19 @@ Member Of Lab
 
 ##　個人情報
 **LABMEM NO001,冈部伦太郎(Okabe Rintarō)** 
+
 現在Javaに一生懸命勉強しています。牧瀬紅莉栖のために。
 
 ![Okabe Rintarō](https://github.com/Future-Gadget-Laboratory/Labmem/blob/master/LabMemerPic/%E5%86%88%E9%83%A8%E4%BC%A6%E5%A4%AA%E9%83%8E.png)
 
 **LABMEM NO009,比屋定真帆(Hiyajō Maho)**
+
 JavaScriptを研究しています、でもこれだけじゃなくて他のLanguageも段々上手になります。現在岡部と一緒に仕事中です。
 
 ![Hiyajō Maho](https://github.com/Future-Gadget-Laboratory/Labmem/blob/master/LabMemerPic/%E6%AF%94%E5%B1%8B%E5%AE%9A%E7%9C%9F%E5%B8%86.png)
 
 **LABMEM NO004,牧濑红莉栖**
+
 今　岡部にいない　どこへ行きますでしょうか？
 
 ![Hiyajō Maho](https://github.com/Future-Gadget-Laboratory/Labmem/blob/master/LabMemerPic/%E7%89%A7%E7%80%AC%E7%B4%85%E8%8E%89%E6%A0%96.jpg)
