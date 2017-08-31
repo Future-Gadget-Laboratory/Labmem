@@ -43,6 +43,7 @@ Member Of Lab
 **LABMEM NO011,阿万音由季**  今の状態：[留守中](#)
 
 ##　個人情報
+
 **LABMEM NO001,冈部伦太郎(Okabe Rintarō)** 
 
 現在Javaに一生懸命勉強しています。牧瀬紅莉栖のために。
@@ -57,7 +58,7 @@ JavaScriptを研究しています、でもこれだけじゃなくて他のLang
 
 **LABMEM NO004,牧濑红莉栖**
 
-今　岡部にいない　どこへ行きますでしょうか？
+今　岡部のそばにいない　どこへ行くかな？
 
 ![Hiyajō Maho](https://github.com/Future-Gadget-Laboratory/Labmem/blob/master/LabMemerPic/%E7%89%A7%E7%80%AC%E7%B4%85%E8%8E%89%E6%A0%96.jpg)
 
