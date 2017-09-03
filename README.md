@@ -36,7 +36,7 @@ Member Of Lab
 
 **LABMEM NO008,阿万音铃羽**  今の状態：[留守中](#)
 
-**LABMEM NO009,比屋定真帆(Hiyajō Maho)**  今の状態：[今このラボラトリーに仕事中](https://github.com/netsails)
+**LABMEM NO009,比屋定真帆(Hiyajō Maho)**  今の状態：[今このラボラトリーに仕事中](https://github.com/minazukie)
 
 **LABMEM NO010,椎名篝**  今の状態：[留守中](#)
 
